@@ -19,14 +19,15 @@
 * 특강 기록
   - 청원고등학교, '빅데이터분석의 이해', 2022년 7월 25일(월) ~ 29일(금), 12:30~14:30
     - 1일차
-      - 실습코드 [링크](https://colab.research.google.com/drive/1ABZPOQvUdalvA3h33FjH1sd60TPCcsX1?usp=sharing)
+      - 실습코드 [링크](https://github.com/janggoons/bigdataanalysis/blob/main/01/01.ipynb)
       - 수업 전 설문조사 [링크](https://docs.google.com/forms/d/e/1FAIpQLScuQGoCWQ7hSWEIdgfJkX88BBozhRQMzYkAT6g-95B7Y6dI9A/viewform)
     - 2일차
-      - 실습코드 [링크]()
-      - 인공지능 교육 요구조사 [링크]()      
+      - 실습코드 [링크](https://github.com/janggoons/bigdataanalysis/blob/main/02/02.ipynb)
+      - 인공지능 교육 요구조사 [링크](https://docs.google.com/forms/d/e/1FAIpQLSfF0Ox2J7iuJc88cjR5s502JxoQZwbTbRV8quImYX_cCA7YDA/viewform?usp=sf_link)      
     - 3일차
       - 프로젝트 작성 문서 [링크]()
     - 4일차
       - 실습코드 [링크]()
     - 5일차
       - 프로젝트 작성 문서 [링크]()
+      - 수업 후 설문조사 [링크]()
