@@ -26,8 +26,8 @@
       - 인공지능 교육 요구조사 [링크](https://docs.google.com/forms/d/e/1FAIpQLSfF0Ox2J7iuJc88cjR5s502JxoQZwbTbRV8quImYX_cCA7YDA/viewform?usp=sf_link)      
     - 3일차
       - 프로젝트 작성 문서 [링크](https://docs.google.com/presentation/d/1FF24EJmXdkUat7E927WlJnyrMTJiYcWACLgRqTPcMvk/edit?usp=sharing)
-    - 4일차
-      - 실습코드 [링크]()
+    - 4일차    
     - 5일차
+      - 실습코드 [링크]()
       - 프로젝트 작성 문서 [링크](https://docs.google.com/presentation/d/1W4IrYoirbTnWYw7FXAxoaBwwlpv27q4MhVT-NGsyXBg/edit?usp=sharing)
       - 수업 후 설문조사 [링크](https://docs.google.com/forms/d/e/1FAIpQLSdcbNOdGcyCZ1IRFAX_yMJ8LQWXxoWjM3-HghFH2SaKj_LaTA/viewform?usp=sf_link)
